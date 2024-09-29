@@ -1,0 +1,38 @@
+# Tencent Video (v.qq.com)
+0.0.0.0 v.qq.com
+0.0.0.0 video.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 om.qq.com
+0.0.0.0 btrace.video.qq.com
+0.0.0.0 btrace.play.qq.com
+0.0.0.0 live.qq.com
+
+# iQIYI (iqiyi.com)
+0.0.0.0 iqiyi.com
+0.0.0.0 static.iqiyi.com
+0.0.0.0 cupid.iqiyi.com
+0.0.0.0 paopao.iqiyi.com
+0.0.0.0 afp.iqiyi.com
+0.0.0.0 dispatcher.iqiyi.com
+0.0.0.0 msg.71.am
+0.0.0.0 suggest.video.iqiyi.com
+||doubleclick.net^$important
+||googlesyndication.com^$important
+||adservice.google.com^$important
+||ads.pubmatic.com^$important
+||adnxs.com^$important
+||adsafeprotected.com^$important
+||media.net^$important
+||adroll.com^$important
+||criteo.com^$important
+||cloudfront.net^$important
+||iadsdk.apple.com^$important
+||ads.apple.com^$important
+||analytics.sdk.apple.com^$important
+||metrics.apple.com^$important
+||c.apple.news^$important
+||iadsdk.apple.com^$important
+||ads.apple.com^$important
+||analytics.sdk.apple.com^$important
+||metrics.apple.com^$important
+||c.apple.news^$important
